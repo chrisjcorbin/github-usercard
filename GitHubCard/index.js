@@ -50,6 +50,8 @@ axios
 */
 
 const followersArray = [
+  "ashabenj",
+  "svyatoskhin",
   "tetondan",
   "dustinmyers",
   "justsml",
